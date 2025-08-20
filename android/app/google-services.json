@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388440462230",
+    "project_id": "yazan-app-9d6a6",
+    "storage_bucket": "yazan-app-9d6a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388440462230:android:f0ac899942d1c18bed43b7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqez6Q5K-HPmxcp1fuRBzdVgevYE-g_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388440462230:android:743f3b3bd10bbe8bed43b7",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqez6Q5K-HPmxcp1fuRBzdVgevYE-g_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

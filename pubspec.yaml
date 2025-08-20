@@ -1,0 +1,47 @@
+name: app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+
+
+
+  flutter:
+    sdk: flutter
+  camera: ^0.10.0+4    
+  battery_plus: ^6.2.2    
+  app_usage: ^2.0.2
+  device_apps: ^2.0.1
+  firebase_core: ^4.0.0
+  cloud_firestore: ^6.0.0
+  firebase_auth: ^6.0.0
+
+  flutter_webrtc: ^1.0.0
+  dart_webrtc: ^1.5.3+hotfix.4
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+ 
